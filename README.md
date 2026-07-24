@@ -176,7 +176,7 @@ cp config.example.yaml config.yaml
 
 ## 📋更新日志
 
-### v2.1
+### v2.0.1
 
 - **优化：** 卡包类型覆盖改为按数据源根目录统一配置——新增 `source_pack_overrides`，集卡社图鉴下所有 IP 自动归为「卡牌」类，无需逐 IP 配置 `pack_type_overrides`
 - **变更：** `pack_type_overrides` 保留为单 IP 强制覆盖（优先级高于 `source_pack_overrides`），用于例外情况
