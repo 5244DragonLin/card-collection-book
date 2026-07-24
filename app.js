@@ -15,6 +15,19 @@
   'use strict';
 
   /* ================================================================
+   * 工具函数 — 获取卡牌图片 URL（使用 data.js 中的相对路径）
+   * ================================================================ */
+
+  /**
+   * 返回 file:// 协议的图片绝对路径
+   */
+  function getCardImageUrl(path) {
+    return 'file:///' + path;
+  }
+  // 暴露到全局，供 carousel.js 使用
+  global.getCardImageUrl = getCardImageUrl;
+
+  /* ================================================================
    * CollectionStore — 收藏状态管理
    * ================================================================ */
 
@@ -276,54 +289,65 @@
      * 初始化应用
      */
     init: function () {
-      // 数据校验（多 IP：CARD_COLLECTIONS 为 { ip: {meta, packs} }）
-      if (!global.CARD_COLLECTIONS || typeof global.CARD_COLLECTIONS !== 'object') {
-        document.getElementById('packView').innerHTML =
-          '<p class="no-result"><span class="no-result-icon">⚠️</span>数据加载失败，请确认 data.js 文件存在且格式正确。</p>';
-        return;
-      }
-      // 选定默认 IP（优先 AppConfig.IP_LIST 中存在且有卡牌的）
-      var defaultIp = null;
-      for (var li = 0; li < AppConfig.IP_LIST.length; li++) {
-        var ipc = global.CARD_COLLECTIONS[AppConfig.IP_LIST[li]];
-        if (ipc && ipc.packs && ipc.packs.length > 0) {
-          defaultIp = AppConfig.IP_LIST[li];
-          break;
+      try {
+        // 数据校验（多 IP：CARD_COLLECTIONS 为 { ip: {meta, packs} }）
+        if (!global.CARD_COLLECTIONS || typeof global.CARD_COLLECTIONS !== 'object') {
+          document.getElementById('packView').innerHTML =
+            '<p class="no-result"><span class="no-result-icon">⚠️</span>数据加载失败，请确认 data.js 文件存在且格式正确。</p>';
+          return;
         }
+        console.log('[debug] CARD_COLLECTIONS IP列表:', Object.keys(global.CARD_COLLECTIONS));
+        // 选定默认 IP（优先 AppConfig.IP_LIST 中存在且有卡牌的）
+        var defaultIp = null;
+        console.log('[debug] AppConfig.IP_LIST:', AppConfig.IP_LIST);
+        for (var li = 0; li < AppConfig.IP_LIST.length; li++) {
+          var ipc = global.CARD_COLLECTIONS[AppConfig.IP_LIST[li]];
+          if (ipc && ipc.packs && ipc.packs.length > 0) {
+            defaultIp = AppConfig.IP_LIST[li];
+            break;
+          }
+        }
+        if (!defaultIp) defaultIp = Object.keys(global.CARD_COLLECTIONS)[0];
+        console.log('[debug] defaultIp:', defaultIp);
+        this.currentIp = defaultIp;
+        AppConfig.setCurrentIp(defaultIp);
+        this.data = global.CARD_COLLECTIONS[defaultIp];
+
+        // 加载收藏数据（按 IP 隔离）
+        CollectionStore.useIp(defaultIp);
+
+        // 初始化 IntersectionObserver
+        this.cardObserver = new IntersectionObserver(this._onCardIntersect.bind(this), {
+          threshold: 0.1,
+          root: document.getElementById('mainContent')
+        });
+
+        // 自动补全未知级别颜色，并注入级别筛选标签动态颜色 CSS
+        this._ensureRarityColors();
+        this._injectRarityFilterStyles();
+
+        // 渲染 IP 切换器
+        this.renderIpSwitcher();
+
+        // 渲染界面
+        this.renderSidebar();
+        this.renderMobileTabs();
+        this.updateAllProgress();
+        this.selectPack(0);
+
+        // 绑定事件
+        this._bindEvents();
+
+        console.log('集卡册 v2.0 初始化完成 · 当前 IP：' + this.currentIp +
+          ' · 卡包 ' + this.data.meta.totalPacks +
+          ' 个 · 卡牌 ' + this.data.meta.totalCards + ' 张');
+      } catch (e) {
+        console.error('[init error]', e);
+        document.getElementById('packView').innerHTML =
+          '<p class="no-result" style="color:#E74C3C">' +
+          '<span class="no-result-icon">❌</span>初始化出错：' + this._escapeHtml(e.message) +
+          '<br><small>' + this._escapeHtml(e.stack || '') + '</small></p>';
       }
-      if (!defaultIp) defaultIp = Object.keys(global.CARD_COLLECTIONS)[0];
-      this.currentIp = defaultIp;
-      AppConfig.setCurrentIp(defaultIp);
-      this.data = global.CARD_COLLECTIONS[defaultIp];
-
-      // 加载收藏数据（按 IP 隔离）
-      CollectionStore.useIp(defaultIp);
-
-      // 初始化 IntersectionObserver
-      this.cardObserver = new IntersectionObserver(this._onCardIntersect.bind(this), {
-        threshold: 0.1,
-        root: document.getElementById('mainContent')
-      });
-
-      // 自动补全未知级别颜色，并注入级别筛选标签动态颜色 CSS
-      this._ensureRarityColors();
-      this._injectRarityFilterStyles();
-
-      // 渲染 IP 切换器
-      this.renderIpSwitcher();
-
-      // 渲染界面
-      this.renderSidebar();
-      this.renderMobileTabs();
-      this.updateAllProgress();
-      this.selectPack(0);
-
-      // 绑定事件
-      this._bindEvents();
-
-      console.log('集卡册 v2.0 初始化完成 · 当前 IP：' + this.currentIp +
-        ' · 卡包 ' + this.data.meta.totalPacks +
-        ' 个 · 卡牌 ' + this.data.meta.totalCards + ' 张');
     },
 
     /**
@@ -806,7 +830,7 @@
      */
     _renderCard: function (card, pack) {
       var ownedCls = CollectionStore.isOwned(card.id) ? ' owned' : '';
-      var imgSrc = 'file:///' + card.path;
+      var imgSrc = getCardImageUrl(card.path);
       var safeName = this._escapeHtml(card.name);
       var safeId = this._escapeHtml(card.id);
 
@@ -1113,7 +1137,7 @@
       });
       Object.keys(allRarities).forEach(function (r) {
         AppConfig.LEVEL_COLORS[r] = App._generateColorForRarity(r);
-        console.log('  [自动补全级别颜色] ' + r + ' → hue=' + (Math.abs(function () { var h = 0; for (var i = 0; i < r.length; i++) { h = ((h << 5) - h) + r.charCodeAt(i); h |= 0; } return h; })() % 360));
+        console.log('  [自动补全级别颜色] ' + r + ' → ' + AppConfig.LEVEL_COLORS[r].bg);
       });
     },
 

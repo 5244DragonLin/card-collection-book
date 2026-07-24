@@ -1,7 +1,7 @@
 var CARD_COLLECTIONS = {
   "哆啦A梦": {
     "meta": {
-      "generatedAt": "2026-07-24T22:03:20",
+      "generatedAt": "2026-07-24T23:27:58",
       "sourceDir": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦",
       "totalPacks": 15,
       "totalCards": 1708,
@@ -15519,7 +15519,7 @@ var CARD_COLLECTIONS = {
   },
   "三国志8 REMAKE": {
     "meta": {
-      "generatedAt": "2026-07-24T22:03:20",
+      "generatedAt": "2026-07-24T23:27:58",
       "sourceDir": "D:/BaiduSyncdisk/其他/卡动文创图鉴/三国志8 REMAKE",
       "totalPacks": 1,
       "totalCards": 451,
@@ -19598,7 +19598,7 @@ var CARD_COLLECTIONS = {
   },
   "CF穿越火线": {
     "meta": {
-      "generatedAt": "2026-07-24T22:03:20",
+      "generatedAt": "2026-07-24T23:27:58",
       "sourceDir": "D:/BaiduSyncdisk/其他/卡动文创图鉴/CF穿越火线",
       "totalPacks": 1,
       "totalCards": 148,
@@ -20950,7 +20950,7 @@ var CARD_COLLECTIONS = {
   },
   "龙族": {
     "meta": {
-      "generatedAt": "2026-07-24T22:03:20",
+      "generatedAt": "2026-07-24T23:27:58",
       "sourceDir": "D:/BaiduSyncdisk/其他/集卡社图鉴/龙族",
       "totalPacks": 3,
       "totalCards": 434,
@@ -24894,7 +24894,7 @@ var CARD_COLLECTIONS = {
   },
   "卡皮巴拉": {
     "meta": {
-      "generatedAt": "2026-07-24T22:03:20",
+      "generatedAt": "2026-07-24T23:27:58",
       "sourceDir": "D:/BaiduSyncdisk/其他/集卡社图鉴/卡皮巴拉",
       "totalPacks": 4,
       "totalCards": 434,

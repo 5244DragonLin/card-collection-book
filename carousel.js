@@ -174,7 +174,7 @@
           div.dataset.cardIndex = index;
 
           // 图片（含容错）
-          var imgSrc = 'file:///' + card.path;
+          var imgSrc = getCardImageUrl(card.path);
           div.innerHTML = '<img src="' + imgSrc + '" alt="' + self._escapeHtml(card.name) + '" ' +
             'onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\'">' +
             '<div class="cf-placeholder">' +
@@ -220,7 +220,7 @@
       var card = this.cards[centerIdx];
       if (!card) return;
 
-      var imgSrc = 'file:///' + card.path;
+      var imgSrc = getCardImageUrl(card.path);
       var isOwned = CollectionStore.isOwned(card.id);
 
       // 更新主图区

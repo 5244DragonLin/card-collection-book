@@ -1,6 +1,6 @@
 # card-collection-book
 
-基于纯前端（原生 HTML/CSS/JS，零构建）的集卡册多 IP 卡牌收藏管理网站，支持真 3D Coverflow 圆环预览、卡包/级别分层浏览、收藏进度与本地持久化；当前内置哆啦A梦、三国志8 REMAKE、CF穿越火线、龙族四个 IP，可在顶部一键切换。
+基于纯前端（原生 HTML/CSS/JS，零构建）的集卡册多 IP 卡牌收藏管理网站，支持真 3D Coverflow 圆环预览、卡包/级别分层浏览、收藏进度与本地持久化；当前内置哆啦A梦、三国志8 REMAKE、CF穿越火线、龙族、卡皮巴拉五个 IP，可在顶部一键切换。
 
 ## 📸项目预览
 
@@ -19,7 +19,7 @@
 
 ## ⭐亮点
 
-- **多 IP 合一**：内置哆啦A梦、三国志8 REMAKE、CF穿越火线、龙族四个 IP，顶部一键切换，数据与收藏彼此隔离
+- **多 IP 合一**：内置哆啦A梦、三国志8 REMAKE、CF穿越火线、龙族、卡皮巴拉五个 IP，顶部一键切换，数据与收藏彼此隔离
 - **真 3D Coverflow**：基于 CSS `perspective + rotateY + translateZ` 的弧形圆环预览，卡牌沿弧排列、左右渐退消失
 - **流畅拖拽**：鼠标/触摸横向拖拽，浮点 `virtualIndex` 连续更新，松手平滑吸附
 - **分层浏览**：各 IP 按卡包（卡牌类 + 周边类）与级别从低到高分组
@@ -147,7 +147,7 @@ cp config.example.yaml config.yaml
 
 **为什么卡牌图片显示不出来？**
 
-图片来自集卡册整理到本地的目录，由 `generate_data.py` 以 `file:///` 路径加载。请确保 `config.yaml` 中 `paths.root_dirs` 指向的目录保持原位；若移动或重新采集，重新运行脚本生成 `data.js` 即可（卡牌 ID 基于名称，收藏数据不丢失）。
+图片来自集卡册整理到本地的目录，由 `generate_data.py` 以 `file:///` 绝对路径加载。请确保 `config.yaml` 中 `paths.root_dirs` 指向的目录保持原位；若移动或重新采集，重新运行脚本生成 `data.js` 即可（卡牌 ID 基于名称，收藏数据不丢失）。
 
 **收藏数据存在哪里？会丢失吗？**
 
@@ -156,10 +156,6 @@ cp config.example.yaml config.yaml
 **可以自定义卡包顺序或级别顺序吗？**
 
 可以。在 `config.yaml` 中配置 `ip_pack_orders`（按 IP）与 `rarity_order`（全局），或编辑脚本内置默认值后重新运行脚本。
-
-**卡牌图片切换卡包后加载慢怎么办？**
-
-仓库已优化图片加载策略：移除原生 `loading="lazy"`，切换卡包后所有图片立即并行从本地硬盘读取。如仍遇卡顿，请确认已从最新仓库拉取代码。
 
 ## 📝已知问题 / 待改进点
 
@@ -179,7 +175,7 @@ cp config.example.yaml config.yaml
 ### v2.0.1
 
 - **优化：** 卡包类型覆盖改为按数据源根目录统一配置——新增 `source_pack_overrides`，集卡社图鉴下所有 IP 自动归为「卡牌」类，无需逐 IP 配置 `pack_type_overrides`
-- **变更：** `pack_type_overrides` 保留为单 IP 强制覆盖（优先级高于 `source_pack_overrides`），用于例外情况
+- **优化：** 卡牌级别颜色使用哈希算法自动补全——未在 `LEVEL_COLORS` 中定义的级别，运行时会根据级别代码自动生成稳定的 HSL 颜色，无需手动维护配色表
 
 ### v2.0
 
