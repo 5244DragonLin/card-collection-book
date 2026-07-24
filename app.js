@@ -305,7 +305,8 @@
         root: document.getElementById('mainContent')
       });
 
-      // 注入级别筛选标签的动态颜色 CSS（与下方徽章颜色一致）
+      // 自动补全未知级别颜色，并注入级别筛选标签动态颜色 CSS
+      this._ensureRarityColors();
       this._injectRarityFilterStyles();
 
       // 渲染 IP 切换器
@@ -1075,6 +1076,45 @@
       var div = document.createElement('div');
       div.textContent = str;
       return div.innerHTML;
+    },
+
+    /**
+     * 根据级别代码自动生成稳定的 HSL 颜色（用于未知级别）
+     */
+    _generateColorForRarity: function (rarity) {
+      var hash = 0;
+      for (var i = 0; i < rarity.length; i++) {
+        hash = ((hash << 5) - hash) + rarity.charCodeAt(i);
+        hash |= 0;
+      }
+      var hue = Math.abs(hash) % 360;
+      return {
+        bg: 'linear-gradient(135deg, hsl(' + hue + ', 65%, 45%), hsl(' + hue + ', 65%, 35%))',
+        text: '#fff'
+      };
+    },
+
+    /**
+     * 扫描所有卡牌，自动补全未知级别的颜色
+     */
+    _ensureRarityColors: function () {
+      var allRarities = {};
+      Object.keys(global.CARD_COLLECTIONS).forEach(function (ip) {
+        if (!global.CARD_COLLECTIONS[ip] || !global.CARD_COLLECTIONS[ip].packs) return;
+        global.CARD_COLLECTIONS[ip].packs.forEach(function (pack) {
+          if (!pack.cards) return;
+          pack.cards.forEach(function (card) {
+            var r = card.rarity;
+            if (r && !AppConfig.LEVEL_COLORS[r] && r !== '?') {
+              allRarities[r] = true;
+            }
+          });
+        });
+      });
+      Object.keys(allRarities).forEach(function (r) {
+        AppConfig.LEVEL_COLORS[r] = App._generateColorForRarity(r);
+        console.log('  [自动补全级别颜色] ' + r + ' → hue=' + (Math.abs(function () { var h = 0; for (var i = 0; i < r.length; i++) { h = ((h << 5) - h) + r.charCodeAt(i); h |= 0; } return h; })() % 360));
+      });
     },
 
     /**
