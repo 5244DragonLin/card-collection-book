@@ -40,9 +40,13 @@ ips:
 card_secondary_sort:
   "龙族": "number"
 
-# ---------- 卡包类型强制覆盖（目录名不含「｜」类型分隔符的 IP，如集卡社图鉴/龙族，归为「卡牌」类与其它 IP 统一）----------
-pack_type_overrides:
-  "龙族": "卡牌"
+# ---------- 卡包类型覆盖 ----------
+# 1) 按数据源目录统一覆盖（集卡社图鉴下的所有 IP 默认归为「卡牌」类）
+source_pack_overrides:
+  "集卡社图鉴": "卡牌"
+
+# 2) 单 IP 强制覆盖（优先级高于 source_pack_overrides，用于例外情况）
+pack_type_overrides: {}
 
 # ---------- 重复图片检测（默认关闭，依赖 Pillow + imagehash 库）----------
 # 开启后 data.js 生成完毕时会自动运行 generate_duplicate_groups.py

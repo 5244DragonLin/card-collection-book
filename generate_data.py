@@ -229,6 +229,11 @@ def load_config():
     if raw_override:
         cfg["pack_type_overrides"] = dict(raw_override)
 
+    # 数据源目录级别类型覆盖（按根目录名匹配）
+    raw_source_overrides = user_cfg.get("source_pack_overrides", {}) or {}
+    if raw_source_overrides:
+        cfg["source_pack_overrides"] = dict(raw_source_overrides)
+
     # 重复图片检测开关
     cfg["run_duplicate_detection"] = bool(user_cfg.get("run_duplicate_detection", False))
 
@@ -241,10 +246,19 @@ def load_config():
     return cfg
 
 
-def build_ip_data(ip_name, ip_dir, image_extensions, pack_order, rarity_order, secondary_sort="name", pack_type_override=None):
+def build_ip_data(ip_name, ip_dir, image_extensions, pack_order, rarity_order, secondary_sort="name", pack_type_override=None, source_pack_overrides=None):
     """扫描单个 IP 目录，生成该 IP 的 {meta, packs[]} 数据。"""
     global RARITY_RANK
     RARITY_RANK = {r: i for i, r in enumerate(rarity_order)}
+
+    # 确定该 IP 的卡包类型覆盖
+    # 优先级：pack_type_override > source_pack_overrides > 默认（按目录名解析）
+    final_pack_type_override = pack_type_override
+    if not final_pack_type_override and source_pack_overrides:
+        # 从 ip_dir 中提取根目录名，匹配 source_pack_overrides
+        # ip_dir 格式: <root_dir>/<ip_name>
+        parent_dir = os.path.basename(os.path.dirname(ip_dir))
+        final_pack_type_override = source_pack_overrides.get(parent_dir)
 
     packs = []
     total_cards = 0
@@ -295,7 +309,7 @@ def build_ip_data(ip_name, ip_dir, image_extensions, pack_order, rarity_order, s
         pack_id = f"p{pack_idx:02d}"
         packs.append({
             "id": pack_id,
-            "type": pack_type_override if pack_type_override else pack_type,
+            "type": final_pack_type_override if final_pack_type_override else pack_type,
             "name": pack_name,
             "fullName": pack_full_name,
             "cardCount": len(cards),
@@ -303,7 +317,7 @@ def build_ip_data(ip_name, ip_dir, image_extensions, pack_order, rarity_order, s
         })
 
         total_cards += len(cards)
-        print(f"  [{ip_name}] {pack_id} [{pack_type}] {pack_name}: {len(cards)} 张")
+        print(f"  [{ip_name}] {pack_id} [{final_pack_type_override if final_pack_type_override else pack_type}] {pack_name}: {len(cards)} 张")
 
     meta = {
         "generatedAt": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
@@ -351,7 +365,8 @@ def main():
         pack_order = ip_pack_orders.get(ip)
         secondary_sort = cfg.get("card_secondary_sort", {}).get(ip, "name")
         pack_type_override = cfg.get("pack_type_overrides", {}).get(ip)
-        ip_data, unknown = build_ip_data(ip, ip_dir, image_extensions, pack_order, rarity_order, secondary_sort=secondary_sort, pack_type_override=pack_type_override)
+        source_pack_overrides = cfg.get("source_pack_overrides")
+        ip_data, unknown = build_ip_data(ip, ip_dir, image_extensions, pack_order, rarity_order, secondary_sort=secondary_sort, pack_type_override=pack_type_override, source_pack_overrides=source_pack_overrides)
         collections[ip] = ip_data
         total_unknown += unknown
         total_cards_all += ip_data["meta"]["totalCards"]

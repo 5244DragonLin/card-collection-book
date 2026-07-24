@@ -129,7 +129,8 @@ cp config.example.yaml config.yaml
 | `ip_pack_orders` | 各 IP 的卡包自定义排序（未列出的 IP 按文件夹名排序） | 可选 |
 | `rarity_order` | 全局级别排序表（从低到高） | 可选，有内置默认值 |
 | `card_secondary_sort` | 卡牌二级排序方式（per-IP 字典配置）。可选值：`"number"`（按稀有度→编号）或 `"name"`（按稀有度→名称），未配置的 IP 默认 `"name"`。示例：`"龙族": "number"` | 可选 |
-| `pack_type_overrides` | 卡包类型强制覆盖（如龙族目录名无「｜」分隔符，归为「卡牌」类） | 可选 |
+| `source_pack_overrides` | 按数据源根目录名统一覆盖卡包类型（如集卡社图鉴下所有 IP 统一归为「卡牌」类，无需逐 IP 配置） | 可选 |
+| `pack_type_overrides` | 单 IP 卡包类型强制覆盖（优先级高于 `source_pack_overrides`） | 可选 |
 | `run_duplicate_detection` | 是否在数据生成后自动运行重复图片检测（依赖 Pillow + imagehash） | 可选，默认 `false` |
 
 > 若缺少 `config.yaml` 或必填项，脚本会报错退出，不会回退到硬编码默认值。
@@ -175,9 +176,14 @@ cp config.example.yaml config.yaml
 
 ## 📋更新日志
 
+### v2.1
+
+- **优化：** 卡包类型覆盖改为按数据源根目录统一配置——新增 `source_pack_overrides`，集卡社图鉴下所有 IP 自动归为「卡牌」类，无需逐 IP 配置 `pack_type_overrides`
+- **变更：** `pack_type_overrides` 保留为单 IP 强制覆盖（优先级高于 `source_pack_overrides`），用于例外情况
+
 ### v2.0
 
-- **新增：** 龙族（集卡社图鉴）IP——多根目录 `root_dirs` 支持，不存在的路径自动跳过
+- **新增：** 龙族、卡皮巴拉（集卡社图鉴）IP——多根目录 `root_dirs` 支持，不存在的路径自动跳过
 - **新增：** 龙族排序特殊处理——按 `稀有度 → 后缀编号` 排序；其他 IP 按 `稀有度 → 名称`
 - **变更：** `sort_by_number_ips` 列表配置项已替换为 `card_secondary_sort` 字典配置项，支持 per-IP 显式指定二级排序方式（`"number"` / `"name"`），未配置的 IP 默认走 `"name"`
 - **新增：** config.yaml 强制使用——所有配置（路径、IP、排序等）均从 yaml 读取，不再保留硬编码默认值
