@@ -84,12 +84,14 @@ python generate_data.py
 ```text
 card-collection-book/
 ├── index.html                  # 主页面（HTML 骨架，引用外部 CSS/JS）
-├── style.css                   # 全部样式（多 IP 主题 + 3D 圆环 + 动画 + 响应式）
-├── app.js                     # 核心交互（数据加载 / IP 切换 / 卡包 / 收藏 / 搜索 / 进度 / 导入导出）
-├── carousel.js                 # 3D 圆环模块（Coverflow 渲染/拖拽/吸附/键盘）
-├── config.js                  # 前端常量配置（IP 列表 / 每 IP 主题色 / 级别排序 / 级别配色 / 3D 参数）
-├── data.js                     # 卡牌数据（脚本生成，var CARD_COLLECTIONS = { "<IP>": {...} }）
-├── duplicate_groups.js         # 去重图片组映射数据（脚本生成，按 IP 分桶）
+├── css/
+│   └── style.css               # 全部样式（多 IP 主题 + 3D 圆环 + 动画 + 响应式）
+├── js/
+│   ├── app.js                  # 核心交互（数据加载 / IP 切换 / 卡包 / 收藏 / 搜索 / 进度 / 导入导出）
+│   ├── carousel.js              # 3D 圆环模块（Coverflow 渲染/拖拽/吸附/键盘）
+│   ├── config.js               # 前端常量配置（IP 列表 / 每 IP 主题色 / 级别排序 / 级别配色 / 3D 参数）
+│   ├── data.js                  # 卡牌数据（脚本生成，var CARD_COLLECTIONS = { "<IP>": {...} }）
+│   └── duplicate_groups.js      # 去重图片组映射数据（脚本生成，按 IP 分桶）
 ├── favicons/                   # 站点图标
 ├── assets/                     # README 截图与捐赠收款码
 ├── generate_data.py           # 数据生成脚本（从 config.yaml 读取配置，遍历各 IP 根目录）
@@ -97,20 +99,19 @@ card-collection-book/
 ├── config.yaml                # 数据脚本配置文件（必选，所有配置的唯一来源）
 ├── config.example.yaml        # 配置文件模板
 ├── docs/                       # ARCHITECTURE.md / PRD.md / 图示
-├── tests/                      # verify_data.py 数据校验
 ├── requirements.txt            # Python 依赖（PyYAML / Pillow / imagehash / numpy / scipy）
 ├── README.md
 └── LICENSE
 ```
 
-Script 加载顺序：
+Script 加载顺序（已移至 `js/` 目录）：
 
 ```html
-<script src="data.js"></script>              <!-- 1. 数据 → CARD_COLLECTIONS -->
-<script src="duplicate_groups.js"></script>  <!-- 2. 去重组数据 → DUPLICATE_GROUPS（按 IP 分桶） -->
-<script src="config.js"></script>            <!-- 3. 配置 → AppConfig -->
-<script src="app.js"></script>                <!-- 4. 核心逻辑 → App + CollectionStore -->
-<script src="carousel.js"></script>            <!-- 5. 圆环模块 → CoverflowCarousel -->
+<script src="js/data.js"></script>              <!-- 1. 数据 → CARD_COLLECTIONS -->
+<script src="js/duplicate_groups.js"></script>  <!-- 2. 去重组数据 → DUPLICATE_GROUPS（按 IP 分桶） -->
+<script src="js/config.js"></script>            <!-- 3. 配置 → AppConfig -->
+<script src="js/app.js"></script>                <!-- 4. 核心逻辑 → App + CollectionStore -->
+<script src="js/carousel.js"></script>            <!-- 5. 圆环模块 → CoverflowCarousel -->
 ```
 
 ## ⚙️配置文件（可选）
