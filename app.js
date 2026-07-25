@@ -701,8 +701,17 @@
           html += '<div class="rarity-group-header">' +
             '<span class="rarity-badge" data-rarity="' + self._escapeHtml(rarity) + '" style="background:' + badgeColor.bg + ';color:' + badgeColor.text + ';">' + self._escapeHtml(rarity) + '</span>' +
             '<span class="rarity-group-count">· ' + cards.length + ' 张</span>' +
-            '<span class="rarity-group-progress">' + groupOwned + '/' + cards.length + '</span>' +
-            '<button class="rarity-batch-btn' + batchBtnCls + '" ' +
+            '<span class="rarity-group-progress">' + groupOwned + '/' + cards.length + '</span>';
+
+          // 检测是否为拼图卡（TR 且数量为 9 的倍数，按 base name 分组每组 9 张）
+          var puzzleGroups = self._getPuzzleGroups(cards);
+          if (puzzleGroups.length > 0) {
+            html += '<button class="puzzle-toggle-btn" ' +
+              'data-rarity="' + self._escapeHtml(rarity) + '" ' +
+              'title="拼图预览">🔲 拼图预览</button>';
+          }
+
+          html += '<button class="rarity-batch-btn' + batchBtnCls + '" ' +
             'data-action="' + batchBtnAction + '" ' +
             'data-rarity="' + self._escapeHtml(rarity) + '" ' +
             'title="' + (allOwned ? '取消该级别所有卡牌' : '标记该级别所有卡牌') + '">' +
@@ -718,10 +727,84 @@
 
       view.innerHTML = html;
 
-      // 绑定卡牌事件 + 级别筛选事件 + 批量操作事件 + IntersectionObserver
+      // 绑定卡牌事件 + 级别筛选事件 + 批量操作事件 + 拼图切换事件 + IntersectionObserver
       this._bindCardEvents();
       this._bindRarityFilters();
       this._bindBatchButtons();
+      this._bindPuzzleToggle();
+    },
+
+    /**
+     * 检测卡片中是否有拼图组（TR 卡按 base name 分组，每组 9 张）
+     * @param {Array} cards - 卡片数组
+     * @returns {Array} 拼图组数组 [{name, cardsByNum: {01: card, ...}}]
+     */
+    _getPuzzleGroups: function (cards) {
+      var groups = {};
+      cards.forEach(function (card) {
+        // 提取 base name：去掉末尾的 -NN
+        var name = card.name || '';
+        var base = name.replace(/-\d{2}$/, '');
+        if (!groups[base]) groups[base] = [];
+        groups[base].push(card);
+      });
+      var result = [];
+      for (var base in groups) {
+        var g = groups[base];
+        if (g.length === 9) {
+          var cardsByNum = {};
+          g.forEach(function (card) {
+            // 从 name 中提取末尾数字
+            var m = (card.name || '').match(/-?(\d{2})$/);
+            var num = m ? m[1] : '';
+            cardsByNum[num] = card;
+          });
+          result.push({ name: base, cardsByNum: cardsByNum });
+        }
+      }
+      return result;
+    },
+
+    /**
+     * 绑定拼图切换按钮事件
+     */
+    _bindPuzzleToggle: function () {
+      var self = this;
+      var buttons = document.querySelectorAll('.puzzle-toggle-btn');
+      buttons.forEach(function (btn) {
+        btn.addEventListener('click', function (e) {
+          e.stopPropagation();
+          var rarity = this.getAttribute('data-rarity');
+          // 从当前 pack 中找到该 rarity 的卡片
+          var pack = self.data.packs[self.currentPackIndex];
+          if (!pack || !pack.cards) return;
+          var cards = [];
+          for (var i = 0; i < pack.cards.length; i++) {
+            if (pack.cards[i].rarity === rarity) {
+              cards.push(pack.cards[i]);
+            }
+          }
+          var puzzleGroups = self._getPuzzleGroups(cards);
+          if (puzzleGroups.length > 0) {
+            // 所有拼图组一起传入，弹窗内显示第一个，可切换
+            var allGroups = [];
+            for (var gi = 0; gi < puzzleGroups.length; gi++) {
+              var group = puzzleGroups[gi];
+              var sortedCards = [];
+              for (var pi = 0; pi < 9; pi++) {
+                var num = (pi + 1).toString().padStart(2, '0');
+                if (group.cardsByNum[num]) {
+                  sortedCards.push(group.cardsByNum[num]);
+                }
+              }
+              if (sortedCards.length === 9) {
+                allGroups.push({ name: group.name, cards: sortedCards });
+              }
+            }
+            self.openPuzzlePreview(allGroups);
+          }
+        });
+      });
     },
 
     /**
@@ -899,6 +982,8 @@
           self.onOwnedChanged(cardId);
         });
       });
+
+
     },
 
     /**
@@ -934,6 +1019,163 @@
       if (global.CoverflowCarousel) {
         global.CoverflowCarousel.open(card, pack.cards, cardIndex);
       }
+    },
+
+    /**
+     * 打开拼图合成预览弹窗
+     * @param {Array} cards - 9 张拼图卡片（按编号 01-09 排序）
+     */
+    openPuzzlePreview: function (allGroups) {
+      if (!allGroups || allGroups.length === 0) return;
+      var self = this;
+
+      var overlay = document.getElementById('modalOverlay');
+      var mainImg = document.getElementById('modalMainImg');
+      var info = document.getElementById('modalInfo');
+      var coverflow = document.getElementById('coverflowContainer');
+      var counter = document.getElementById('coverflowCounter');
+      if (!overlay || !mainImg) return;
+
+      // 关闭 carousel 但不清除遮罩（避免闪烁）
+      if (global.CoverflowCarousel) {
+        global.CoverflowCarousel._stopAutoRotate();
+        global.CoverflowCarousel.isOpen = true;
+      }
+      // 确保弹窗可见
+      overlay.classList.remove('closing');
+      overlay.classList.add('active');
+      document.body.style.overflow = 'hidden';
+
+      // 隐藏 carousel
+      if (coverflow) coverflow.style.display = 'none';
+      if (counter) counter.style.display = 'none';
+
+      var currentGroupIndex = 0;
+
+      function switchGroup(newIndex) {
+        if (newIndex >= 0 && newIndex < allGroups.length) {
+          currentGroupIndex = newIndex;
+          renderGroup(newIndex);
+        }
+      }
+
+      // 绑定键盘事件
+      function onPuzzleKeydown(e) {
+        if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          switchGroup(currentGroupIndex - 1);
+        } else if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          switchGroup(currentGroupIndex + 1);
+        }
+      }
+      document.addEventListener('keydown', onPuzzleKeydown);
+
+      // 在关闭时清理键盘事件（重写 close 行为）
+      var origClose = global.CoverflowCarousel ? global.CoverflowCarousel.close : null;
+      if (origClose) {
+        global.CoverflowCarousel.close = function () {
+          document.removeEventListener('keydown', onPuzzleKeydown);
+          origClose.call(global.CoverflowCarousel);
+        };
+      }
+
+      function renderGroup(index) {
+        var group = allGroups[index];
+        if (!group) return;
+        var cards = group.cards;
+        if (cards.length !== 9) return;
+
+        // 构建 3x3 拼图
+        var html = '<div class="puzzle-assembly">';
+        for (var i = 0; i < 9; i++) {
+          var card = cards[i];
+          html += '<div class="puzzle-assembly-cell" data-card-id="' + card.id + '">' +
+            '<img src="' + getCardImageUrl(card.path) + '" alt="" loading="lazy">' +
+            '</div>';
+        }
+        html += '</div>';
+        mainImg.innerHTML = html;
+
+        // 添加左右箭头到 modal-content 边缘
+        if (allGroups.length > 1) {
+          // 移除旧箭头
+          var oldArrows = document.querySelectorAll('.puzzle-edge-arrow');
+          oldArrows.forEach(function (a) { a.remove(); });
+          // 创建新箭头
+          var leftArrow = document.createElement('button');
+          leftArrow.className = 'puzzle-edge-arrow left';
+          leftArrow.innerHTML = '&#8249;';
+          leftArrow.addEventListener('click', function (e) {
+            e.stopPropagation();
+            switchGroup(index - 1);
+          });
+          var rightArrow = document.createElement('button');
+          rightArrow.className = 'puzzle-edge-arrow right';
+          rightArrow.innerHTML = '&#8250;';
+          rightArrow.addEventListener('click', function (e) {
+            e.stopPropagation();
+            switchGroup(index + 1);
+          });
+          var modalContent = document.getElementById('modalContent');
+          if (modalContent) {
+            modalContent.appendChild(leftArrow);
+            modalContent.appendChild(rightArrow);
+          }
+        } else {
+          // 移除旧箭头
+          var oldArrows = document.querySelectorAll('.puzzle-edge-arrow');
+          oldArrows.forEach(function (a) { a.remove(); });
+        }
+
+        // 绑定点击事件：无缝切换到对应卡牌的长廊
+        var pack = self.data.packs[self.currentPackIndex];
+        var allCards = pack ? pack.cards : [];
+        mainImg.querySelectorAll('.puzzle-assembly-cell').forEach(function (cell) {
+          cell.addEventListener('click', function () {
+            var cid = this.getAttribute('data-card-id');
+            for (var k = 0; k < allCards.length; k++) {
+              if (allCards[k].id === cid) {
+                // 恢复原始的 close 方法
+                if (global.CoverflowCarousel && origClose) {
+                  global.CoverflowCarousel.close = origClose;
+                }
+                document.removeEventListener('keydown', onPuzzleKeydown);
+                var cf = document.getElementById('coverflowContainer');
+                var cnt = document.getElementById('coverflowCounter');
+                if (cf) cf.style.display = '';
+                if (cnt) cnt.style.display = '';
+                mainImg.innerHTML = '';
+                if (global.CoverflowCarousel) {
+                  global.CoverflowCarousel.open(allCards[k], allCards, k);
+                }
+                break;
+              }
+            }
+          });
+        });
+
+        // 设置信息
+        if (info) {
+          var puzzleName = group.name;
+          var titleHtml = '<div class="modal-card-rarity-name" style="display:flex;align-items:center;gap:8px;justify-content:center">' +
+            '<span style="font-size:1.2rem">🧩</span>' +
+            '<span style="font-size:1rem;font-weight:600">' + self._escapeHtml(puzzleName) + '</span>' +
+            '</div>';
+          if (allGroups.length > 1) {
+            titleHtml += '<div style="text-align:center;font-size:0.8rem;color:var(--text-secondary);margin-top:4px">' +
+              (index + 1) + ' / ' + allGroups.length + '</div>';
+          }
+          info.innerHTML = titleHtml;
+        }
+
+        // 确保弹窗显示
+        overlay.classList.add('active');
+        overlay.classList.remove('closing');
+        document.body.style.overflow = 'hidden';
+      }
+
+      renderGroup(0);
     },
 
     /**

@@ -1,7 +1,7 @@
 var CARD_COLLECTIONS = {
   "哆啦A梦": {
     "meta": {
-      "generatedAt": "2026-07-24T23:27:58",
+      "generatedAt": "2026-07-26T00:54:51",
       "sourceDir": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦",
       "totalPacks": 15,
       "totalCards": 1708,
@@ -8148,8 +8148,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "d5c9b7a74b558021",
@@ -8157,8 +8157,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "2387ad03723fcab6",
@@ -8166,8 +8166,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "88d97ef7f7198a25",
@@ -8175,8 +8175,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "595393f0661774f1",
@@ -8184,8 +8184,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "2779867122c0e3b4",
@@ -8193,8 +8193,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "9b52cd715990fdf5",
@@ -8202,8 +8202,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "e2f7bbb59abd97c1",
@@ -8211,8 +8211,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "bcc18c9f7c8c9914",
@@ -8220,8 +8220,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "b46aaf11557f5a00",
@@ -8229,8 +8229,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "a9a3b8c4222e3ba1",
@@ -8238,8 +8238,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "26bed97b8e3b706e",
@@ -8247,8 +8247,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "b30c840ecb435067",
@@ -8256,8 +8256,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "26b250146be74db6",
@@ -8265,8 +8265,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "e71a4e6941d2e243",
@@ -8274,8 +8274,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "bcc6350cde159295",
@@ -8283,8 +8283,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "1ba341a2659d1709",
@@ -8292,8 +8292,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "0b9b8f37defe36a1",
@@ -8301,8 +8301,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "4dd4b2c288367c15",
@@ -8310,8 +8310,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "0e215dbdf8b2cd6d",
@@ -8319,8 +8319,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "55218b1bae123e07",
@@ -8328,8 +8328,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "2dddd58b7ff32a45",
@@ -8337,8 +8337,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "8d4abdeaa4b5e604",
@@ -8346,8 +8346,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "0285ac2c0e3cf836",
@@ -8355,8 +8355,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "b0959b3ba9a0dd00",
@@ -8364,8 +8364,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "5748d80826eddc46",
@@ -8373,8 +8373,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "3e4a969319388eb0",
@@ -8382,8 +8382,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/R-经典角色卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "47be3d05e1e99b9a",
@@ -8391,8 +8391,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "7b0dc57ce8ee04e0",
@@ -8400,8 +8400,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "0335fcde4897ff8e",
@@ -8409,8 +8409,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "324636e5f3e5e9b2",
@@ -8418,8 +8418,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "670552c757037dd1",
@@ -8427,8 +8427,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "f8637b8e9e5fe9e8",
@@ -8436,8 +8436,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "fc0e42639947451d",
@@ -8445,8 +8445,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "73111c56df44cc13",
@@ -8454,8 +8454,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "bf62e4e5cc7482f3",
@@ -8463,8 +8463,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "d4135b803a9a265d",
@@ -8472,8 +8472,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "0bc16eb453679505",
@@ -8481,8 +8481,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "dfbc263fe72e8e3c",
@@ -8490,8 +8490,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "d77a1fab1e484a73",
@@ -8499,8 +8499,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "e620341a1aa122c3",
@@ -8508,8 +8508,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "ff809d99c6952ed4",
@@ -8517,8 +8517,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "a341404423f288a8",
@@ -8526,8 +8526,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "a8bb6a446e81615a",
@@ -8535,8 +8535,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "09f7c6ee42c13e29",
@@ -8544,8 +8544,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "fb5e010dd0073745",
@@ -8553,8 +8553,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "1fcf006411e71681",
@@ -8562,8 +8562,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "4f949d42d8aa14cb",
@@ -8571,8 +8571,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "42d25fe960698218",
@@ -8580,8 +8580,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "fe5f9719046abefa",
@@ -8589,8 +8589,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "8231b673c5a97488",
@@ -8598,8 +8598,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "1af2b7250196a02f",
@@ -8607,8 +8607,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "4959316bcbf13171",
@@ -8616,8 +8616,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "d780ebc2c200f5e5",
@@ -8625,8 +8625,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SR-镭射闪光卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "78f415dfad41cdcc",
@@ -8634,8 +8634,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "18f668bc8f407a2b",
@@ -8643,8 +8643,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "1f341c92d8fcf9e3",
@@ -8652,8 +8652,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "19ad5fa330f8d6bd",
@@ -8661,8 +8661,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "8f49bfb0713983d4",
@@ -8670,8 +8670,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "3c150e8e664ec0a8",
@@ -8679,8 +8679,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "ead1b0ad519d436a",
@@ -8688,8 +8688,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "e44eee5d842abbd3",
@@ -8697,8 +8697,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "4c30d1fe3d2d5dda",
@@ -8706,8 +8706,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "9a327b0c8019af15",
@@ -8715,8 +8715,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "05c70cbafa2e5bdc",
@@ -8724,8 +8724,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "7fc9e3f00abb9b1a",
@@ -8733,8 +8733,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "5bf7e5825ace4488",
@@ -8742,8 +8742,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "ed7c2f87ccfd081b",
@@ -8751,8 +8751,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "a715471e5789dcaa",
@@ -8760,8 +8760,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "eceb53ecbf278567",
@@ -8769,8 +8769,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "f9fd66863bb6b4b4",
@@ -8778,8 +8778,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "1b6837e3e43e6c3f",
@@ -8787,8 +8787,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSR-缤纷时光角色卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "1dd7e898f33a4dd7",
@@ -8796,8 +8796,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "687a8a29c5de8342",
@@ -8805,8 +8805,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "35e3a4cad64606e5",
@@ -8814,8 +8814,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "8272b1271518fcbd",
@@ -8823,8 +8823,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "16a4b87ec3d0aa04",
@@ -8832,8 +8832,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "8d4d9e06e32010db",
@@ -8841,8 +8841,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "37104d24109b784a",
@@ -8850,8 +8850,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "becd15091f48beba",
@@ -8859,8 +8859,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "87cfd412038b083e",
@@ -8868,8 +8868,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "c056b989345d213b",
@@ -8877,8 +8877,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "1340cc2e292a9e98",
@@ -8886,8 +8886,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "99b046a627bfb273",
@@ -8895,8 +8895,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "2002235b89d2fb36",
@@ -8904,8 +8904,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "7724ee029355fec5",
@@ -8913,8 +8913,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "fb6bbd916acdc228",
@@ -8922,8 +8922,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "d630ea0c2ec232b5",
@@ -8931,8 +8931,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "e8381aeef4598397",
@@ -8940,8 +8940,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "2a1b16c2267d8923",
@@ -8949,8 +8949,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "5cc2f0d8c5dc4c46",
@@ -8958,8 +8958,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "39b2d7843955f0b7",
@@ -8967,8 +8967,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "f0c0f70d0e18a594",
@@ -8976,8 +8976,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "276cfbb6a6b2de27",
@@ -8985,8 +8985,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "72d6916f147c4595",
@@ -8994,8 +8994,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "fe79f762f8ede69c",
@@ -9003,8 +9003,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "05c3217bf6fbe1f1",
@@ -9012,8 +9012,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "d26ab8324f4a704c",
@@ -9021,8 +9021,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "95cf2072b842fc3d",
@@ -9030,8 +9030,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/DR-秘密道具卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "0de7d9e44c7d08ee",
@@ -9039,8 +9039,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "6ff890c65c597aaa",
@@ -9048,8 +9048,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "80870e80928b0de3",
@@ -9057,8 +9057,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "568cf9a17f87efee",
@@ -9066,8 +9066,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "258aa6672adcb89e",
@@ -9075,8 +9075,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "a2cea45ff22dc96a",
@@ -9084,8 +9084,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "c423a00f0f74ed82",
@@ -9093,8 +9093,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "d0208b1c832bdf8f",
@@ -9102,8 +9102,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "9378f9c968d2fda2",
@@ -9111,8 +9111,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/CP-亲密角色组合卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "c1105615c5368e94",
@@ -9120,8 +9120,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "4d7e8429f018d904",
@@ -9129,8 +9129,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "5d9dcd57e05421c2",
@@ -9138,8 +9138,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "1fa00c836b5cd672",
@@ -9147,8 +9147,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "3f51f38d13fecbe8",
@@ -9156,8 +9156,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "654873669a93a0b3",
@@ -9165,8 +9165,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "29b03e8971dadc71",
@@ -9174,8 +9174,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "a9b760a09ed43081",
@@ -9183,8 +9183,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "17da7132f30875c5",
@@ -9192,8 +9192,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/UR-马克笔风格卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "91711323e6f846e7",
@@ -9201,8 +9201,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP-稀有炫彩镭射卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP-稀有炫彩镭射卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "a29814aa9cb801f3",
@@ -9210,8 +9210,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP-稀有炫彩镭射卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP-稀有炫彩镭射卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "9ba05fa8affe51d8",
@@ -9219,8 +9219,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "d3ffacfd7f858afe",
@@ -9228,8 +9228,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "c5543d663aeee137",
@@ -9237,8 +9237,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "f575161a424094e9",
@@ -9246,8 +9246,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜经典版｜第2弹/SSP银版-奇妙宇宙镂空卡-04.png",
+            "fileExt": ".png"
           }
         ]
       },
@@ -9264,8 +9264,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "e58be6938a62feb2",
@@ -9273,8 +9273,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "6f1eddf7a006ac1a",
@@ -9282,8 +9282,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "b59b9fb6d86df073",
@@ -9291,8 +9291,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "e8340f1b88c90b1b",
@@ -9300,8 +9300,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "18c225be1b0fc08b",
@@ -9309,8 +9309,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "fbecbc098e4b3d03",
@@ -9318,8 +9318,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "eb9b6fbbd5ff051d",
@@ -9327,8 +9327,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "b809719ed7f8347e",
@@ -9336,8 +9336,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "08bb4c8470e082d4",
@@ -9345,8 +9345,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "8cf9bcae28e3011a",
@@ -9354,8 +9354,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "9a7d207d06e70b0f",
@@ -9363,8 +9363,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "7bbc2a9ee38cdbdb",
@@ -9372,8 +9372,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "c31bedaf2e5914ba",
@@ -9381,8 +9381,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "2e984943e0307303",
@@ -9390,8 +9390,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "55b9aca00b569019",
@@ -9399,8 +9399,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "9f481446c9e1c4d2",
@@ -9408,8 +9408,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "86d190d88cc1ce5f",
@@ -9417,8 +9417,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "8f6ef1d8ee803c18",
@@ -9426,8 +9426,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "7567ef47fb27b7fb",
@@ -9435,8 +9435,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "f9136d922ab34258",
@@ -9444,8 +9444,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "5731265886a8bc4c",
@@ -9453,8 +9453,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "b13c4f7d03e1b173",
@@ -9462,8 +9462,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "afe38f9e99fdbc4b",
@@ -9471,8 +9471,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "450a3f84b64976c7",
@@ -9480,8 +9480,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "fafd94e55ddf7286",
@@ -9489,8 +9489,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "3be993fd0b61fae7",
@@ -9498,8 +9498,8 @@ var CARD_COLLECTIONS = {
             "rarity": "R",
             "rarityName": "经典角色卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/R-经典角色卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "0e1b3cd0d35005d5",
@@ -9507,8 +9507,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "4aa6f41c2e855745",
@@ -9516,8 +9516,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "4f25e27971c01a60",
@@ -9525,8 +9525,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "262f22bf6f060072",
@@ -9534,8 +9534,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "93c18a07b6a429c6",
@@ -9543,8 +9543,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "f3d8ab8a12677806",
@@ -9552,8 +9552,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "273804cd55d0fd5d",
@@ -9561,8 +9561,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "617c2266b153645d",
@@ -9570,8 +9570,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "3f0092db1f9041a7",
@@ -9579,8 +9579,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "9ee2cc74f4c51f52",
@@ -9588,8 +9588,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "bccb82ec7df945c7",
@@ -9597,8 +9597,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "5601c3e3a1346661",
@@ -9606,8 +9606,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "1ae103c280cbaca4",
@@ -9615,8 +9615,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "d37fbe5ebdb41975",
@@ -9624,8 +9624,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "dd2682f85849d21e",
@@ -9633,8 +9633,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "24270aca35c109ab",
@@ -9642,8 +9642,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "3e2c25592775c914",
@@ -9651,8 +9651,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "96dac2d944cf086f",
@@ -9660,8 +9660,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "f71213a501ba25b4",
@@ -9669,8 +9669,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "7e2bb42f6a5a62ed",
@@ -9678,8 +9678,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "f118981d2ba137e2",
@@ -9687,8 +9687,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "64f3f3a868d1b1f1",
@@ -9696,8 +9696,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "ac7ce602f241de19",
@@ -9705,8 +9705,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "a64a498b46244b78",
@@ -9714,8 +9714,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "450b024a6523180b",
@@ -9723,8 +9723,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "ddc35623a530656e",
@@ -9732,8 +9732,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "bc79aec22084e3a3",
@@ -9741,8 +9741,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SR-镭射闪光卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "eec46e67cc8c9bf9",
@@ -9750,8 +9750,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "54548c48142dada9",
@@ -9759,8 +9759,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "4fd7d1be85f206ed",
@@ -9768,8 +9768,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "6c97774c365c7fb9",
@@ -9777,8 +9777,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "271c44d96e63dc37",
@@ -9786,8 +9786,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "84c73ec1612f6c7b",
@@ -9795,8 +9795,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "ae2266a03f8caa2b",
@@ -9804,8 +9804,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "46386c6d843e00f8",
@@ -9813,8 +9813,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "b0a62cc3657d505a",
@@ -9822,8 +9822,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "d758360e03c0750f",
@@ -9831,8 +9831,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "8eefc89d3204b4ae",
@@ -9840,8 +9840,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "be589e2ce03c81ef",
@@ -9849,8 +9849,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "f6a88b67a9e0b15d",
@@ -9858,8 +9858,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "93705f35c44e8f78",
@@ -9867,8 +9867,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "5650dc49c2e0bf22",
@@ -9876,8 +9876,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "a6cad5fecf94bc1a",
@@ -9885,8 +9885,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "ac814f004749cf12",
@@ -9894,8 +9894,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "9596f7eff3287704",
@@ -9903,8 +9903,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSR-缤纷时光角色卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "a42cd6eaac8de21e",
@@ -9912,8 +9912,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "3965534e531499bf",
@@ -9921,8 +9921,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "73742e267665cdc7",
@@ -9930,8 +9930,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "7c423a497ff09963",
@@ -9939,8 +9939,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "a3e76d6ae51246f3",
@@ -9948,8 +9948,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "c367405fd4316b9c",
@@ -9957,8 +9957,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "d734b09739288973",
@@ -9966,8 +9966,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "1d5878a027951f9e",
@@ -9975,8 +9975,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "f433677305887232",
@@ -9984,8 +9984,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "ef9b02f072b9a943",
@@ -9993,8 +9993,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "bed0424e02934697",
@@ -10002,8 +10002,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "e3b1783db8459f8d",
@@ -10011,8 +10011,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "cb72b41185a06ff2",
@@ -10020,8 +10020,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "b84a9ef27f420cc8",
@@ -10029,8 +10029,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "309349354efae217",
@@ -10038,8 +10038,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "54a28f5a6b2b089d",
@@ -10047,8 +10047,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "bead7aee6553d0c7",
@@ -10056,8 +10056,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "2c27c3632fc85820",
@@ -10065,8 +10065,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "520c28590d627752",
@@ -10074,8 +10074,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "5006a2ff57e17fb5",
@@ -10083,8 +10083,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "b9ccd89453ee52cd",
@@ -10092,8 +10092,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "5ed004a0bb8da3b3",
@@ -10101,8 +10101,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "518112c3fbb4a41b",
@@ -10110,8 +10110,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "9c45f85417d5caad",
@@ -10119,8 +10119,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "8378e2b3c84f2cfa",
@@ -10128,8 +10128,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "db686c0e294a419b",
@@ -10137,8 +10137,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "d448784c944b17c3",
@@ -10146,8 +10146,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/DR-秘密道具卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "ea8761c2e3eb3a88",
@@ -10155,8 +10155,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "b9eb5758aedf2206",
@@ -10164,8 +10164,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "8a0a47a4f31e1e6f",
@@ -10173,8 +10173,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "57033e6736231536",
@@ -10182,8 +10182,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "e8765a0ef7f6ef43",
@@ -10191,8 +10191,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "92dc0550001fffa7",
@@ -10200,8 +10200,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "44629fd8f637a0db",
@@ -10209,8 +10209,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "286e8b87125dcb01",
@@ -10218,8 +10218,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "5b0f4d4b2cc696b5",
@@ -10227,8 +10227,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/CP-亲密角色组合-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "0f66d48fc7a7809b",
@@ -10236,8 +10236,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "90d021db9be49986",
@@ -10245,8 +10245,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "335f0d0f7e512eb6",
@@ -10254,8 +10254,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "5431bb0b53345603",
@@ -10263,8 +10263,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "97b271b209f1e027",
@@ -10272,8 +10272,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "f576a1829a8b8b17",
@@ -10281,8 +10281,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "ad1df6648cf421e0",
@@ -10290,8 +10290,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "87c3b125fb9034d5",
@@ -10299,8 +10299,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "f0229c54cc30e505",
@@ -10308,8 +10308,8 @@ var CARD_COLLECTIONS = {
             "rarity": "TR",
             "rarityName": "趣味九宫场景卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/TR-趣味九宫场景卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "a2c8dead31520814",
@@ -10317,8 +10317,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "e03e7cac416afb19",
@@ -10326,8 +10326,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "d9a6dec9b2a557b3",
@@ -10335,8 +10335,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "a85e5780f2a6f022",
@@ -10344,8 +10344,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "c6be97af4f950037",
@@ -10353,8 +10353,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "e55e7354f0b105e6",
@@ -10362,8 +10362,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "16c761ca7a6fda35",
@@ -10371,8 +10371,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "65fdfb2c38e182ce",
@@ -10380,8 +10380,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "edf6fd2579de87f6",
@@ -10389,8 +10389,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/UR-马克笔风格卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "f42727ca629c60d9",
@@ -10398,8 +10398,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "d0e2254815deaccc",
@@ -10407,8 +10407,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "f3d7edfbb2ca7a33",
@@ -10416,8 +10416,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "0433ca0aa232cdc8",
@@ -10425,8 +10425,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "b5347a212d3e6151",
@@ -10434,8 +10434,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "06d1f0aedd6e0eb8",
@@ -10443,8 +10443,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "1ce834c8b1f44800",
@@ -10452,8 +10452,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "31d415be3bb78d1c",
@@ -10461,8 +10461,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SP-运动健将异形卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "f18d8db254604e44",
@@ -10470,8 +10470,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "b3cb21bf71b17c66",
@@ -10479,8 +10479,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "c00cc3f6878c6dc2",
@@ -10488,8 +10488,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "83f57b32adbe7843",
@@ -10497,8 +10497,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/SSP-稀有炫彩镭射卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "9243008ccf211ba6",
@@ -10506,8 +10506,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "d2e6687adda59fda",
@@ -10515,8 +10515,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "e3e2b382d249e97d",
@@ -10524,8 +10524,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "52710b680274c72d",
@@ -10533,8 +10533,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "1becf754580bdb0a",
@@ -10542,8 +10542,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "ef475a0fb4bafb08",
@@ -10551,8 +10551,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "4c6992b5bb5294ad",
@@ -10560,8 +10560,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "奇妙宇宙镂空卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜豪华版｜第2弹/隐藏款SSP-奇妙宇宙镂空卡-07.png",
+            "fileExt": ".png"
           }
         ]
       },
@@ -10578,8 +10578,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "6c0c15ab7afd00d8",
@@ -10587,8 +10587,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "a72dd5949e86203d",
@@ -10596,8 +10596,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "8ccc21da7a3b8af7",
@@ -10605,8 +10605,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "4517fd66252aafc0",
@@ -10614,8 +10614,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "a32c20bd4e825123",
@@ -10623,8 +10623,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "cfa3a038be9bebee",
@@ -10632,8 +10632,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "2d07b1f1d6571fb4",
@@ -10641,8 +10641,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "1c863dcc607afe42",
@@ -10650,8 +10650,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "8386788f4a89fc07",
@@ -10659,8 +10659,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "5394ac6db8372800",
@@ -10668,8 +10668,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "fc0a10361a3de8e3",
@@ -10677,8 +10677,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "e6e6306a91f8bfaa",
@@ -10686,8 +10686,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "c3c2122bbdd98b02",
@@ -10695,8 +10695,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "6a35bc0fbdd65401",
@@ -10704,8 +10704,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "c68e580092120039",
@@ -10713,8 +10713,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "7204ef5680b0f6f5",
@@ -10722,8 +10722,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "8fe3306f62c65f50",
@@ -10731,8 +10731,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "56390ed1d32a1bbd",
@@ -10740,8 +10740,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "6ec75d0571e078bb",
@@ -10749,8 +10749,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "a840a837ba474d24",
@@ -10758,8 +10758,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "cf0814890b1e2be2",
@@ -10767,8 +10767,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "e4f1c74500eaab87",
@@ -10776,8 +10776,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "b04be29dc8f8184a",
@@ -10785,8 +10785,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "7859ac6e78e96520",
@@ -10794,8 +10794,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "6062d42939b9f04f",
@@ -10803,8 +10803,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "c46ee183ce0132e9",
@@ -10812,8 +10812,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "镭射闪光卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SR-镭射闪光卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "4f33af5973c3d168",
@@ -10821,8 +10821,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "9dc7c111b932d146",
@@ -10830,8 +10830,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "151bc91fc6f5ed74",
@@ -10839,8 +10839,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "2c55c1cd449f84b6",
@@ -10848,8 +10848,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "74d64fc00b2c7275",
@@ -10857,8 +10857,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "7844c2ff5ae481d2",
@@ -10866,8 +10866,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "7e29b6dea7791f19",
@@ -10875,8 +10875,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "b7ffd740d7ce38ee",
@@ -10884,8 +10884,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "29f087e90044c9eb",
@@ -10893,8 +10893,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "437d9460f6d9c198",
@@ -10902,8 +10902,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "60bd1468f249bcf0",
@@ -10911,8 +10911,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "5a5956d00a514157",
@@ -10920,8 +10920,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "94ef8d954716f438",
@@ -10929,8 +10929,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "33b949b03cac638e",
@@ -10938,8 +10938,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "269bd31221927dc3",
@@ -10947,8 +10947,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "aec56adea2a5ed19",
@@ -10956,8 +10956,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "3b9dfef5b38cf996",
@@ -10965,8 +10965,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "bb0a064c799a3d46",
@@ -10974,8 +10974,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSR",
             "rarityName": "缤纷时光角色卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSR-缤纷时光角色卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "0a04afa189b9bb56",
@@ -10983,8 +10983,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "702a08d947f17a93",
@@ -10992,8 +10992,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "367df62cfa9aa2de",
@@ -11001,8 +11001,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "e837ab18e34a55a5",
@@ -11010,8 +11010,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "66e3d0d46dde7312",
@@ -11019,8 +11019,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "eecc998fc3a98343",
@@ -11028,8 +11028,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "9be3a2a03ef7902a",
@@ -11037,8 +11037,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "a1416018fd43484a",
@@ -11046,8 +11046,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "cd1f5cdc877348d4",
@@ -11055,8 +11055,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "0a51fe998731eb24",
@@ -11064,8 +11064,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "e2878c43ce39a76b",
@@ -11073,8 +11073,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "66e1c646e2a66ef1",
@@ -11082,8 +11082,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "7e0fb4732c34ce3d",
@@ -11091,8 +11091,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "67872d21212de251",
@@ -11100,8 +11100,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "7d6e358726aeddc6",
@@ -11109,8 +11109,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "7848d066c9e908eb",
@@ -11118,8 +11118,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "0c004dc976afa483",
@@ -11127,8 +11127,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "c4fda5dc6d1155a9",
@@ -11136,8 +11136,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "352a80544eec9dd9",
@@ -11145,8 +11145,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "ca2b26ec439a26b7",
@@ -11154,8 +11154,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "b6c1184b0866fe8f",
@@ -11163,8 +11163,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "a053f20ba6f1e8c9",
@@ -11172,8 +11172,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "6803b106bb361d16",
@@ -11181,8 +11181,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "d0b9ce8a1e9c4375",
@@ -11190,8 +11190,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "97fc549d6a9b3957",
@@ -11199,8 +11199,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "0c51c9b5e842061b",
@@ -11208,8 +11208,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "e7dd7f8368f7cca5",
@@ -11217,8 +11217,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "秘密道具卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/DR-秘密道具卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "13343384efa209cd",
@@ -11226,8 +11226,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "326806872932cd30",
@@ -11235,8 +11235,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "eaa973844986744b",
@@ -11244,8 +11244,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "6e047965963ccb89",
@@ -11253,8 +11253,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "6199007b15817dab",
@@ -11262,8 +11262,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "d8c70eeebc91f3c5",
@@ -11271,8 +11271,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "c859a7cd44e5dab1",
@@ -11280,8 +11280,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "34a0424dddfbeb3b",
@@ -11289,8 +11289,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "cc7d987ee40c59ec",
@@ -11298,8 +11298,8 @@ var CARD_COLLECTIONS = {
             "rarity": "CP",
             "rarityName": "亲密角色组合卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/CP-亲密角色组合卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "4c1d3414f109460d",
@@ -11388,8 +11388,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "0b6e629ab1a07952",
@@ -11397,8 +11397,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "09ba244c1c0f3930",
@@ -11406,8 +11406,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "f0fda024e88cbed6",
@@ -11415,8 +11415,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "01b1324a505a466e",
@@ -11424,8 +11424,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "f8e3121118a48c11",
@@ -11433,8 +11433,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "a21d3aefd936cd28",
@@ -11442,8 +11442,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "a0a8988573981038",
@@ -11451,8 +11451,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "cf832329ecc16427",
@@ -11460,8 +11460,8 @@ var CARD_COLLECTIONS = {
             "rarity": "UR",
             "rarityName": "马克笔风格卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/UR-马克笔风格卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "87e5d031fa6c6187",
@@ -11469,8 +11469,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "140c6bac92e824a1",
@@ -11478,8 +11478,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "728a67a6f933278c",
@@ -11487,8 +11487,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "0d0c2002246f900d",
@@ -11496,8 +11496,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "1992c9e6a9a79584",
@@ -11505,8 +11505,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "5aa10f8fd431a973",
@@ -11514,8 +11514,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "236e494337bdb352",
@@ -11523,8 +11523,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "93b56bca3237ebc2",
@@ -11532,8 +11532,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SP",
             "rarityName": "运动健将异形卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SP-运动健将异形卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "dc2a905613af1183",
@@ -11541,8 +11541,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "d0b4fb858cb95fa7",
@@ -11550,8 +11550,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "887785ab3770a8a1",
@@ -11559,8 +11559,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "8bce58a7c50350d2",
@@ -11568,8 +11568,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "e7e21d750a65e6fd",
@@ -11577,8 +11577,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "019a82991770ba09",
@@ -11586,8 +11586,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "f0d32437154f452a",
@@ -11595,8 +11595,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SSP",
             "rarityName": "稀有炫彩镭射卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/SSP-稀有炫彩镭射卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "b2f124c2e4154c4e",
@@ -11667,8 +11667,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "010272225a16347d",
@@ -11676,8 +11676,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "df676ac4c68a30fd",
@@ -11685,8 +11685,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "d1f547b3679777fc",
@@ -11694,8 +11694,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "694c2d9d745c8f52",
@@ -11703,8 +11703,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "32eaea217878f1b1",
@@ -11712,8 +11712,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "545670fa6eba9637",
@@ -11721,8 +11721,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "0c80c16bef4f9139",
@@ -11730,8 +11730,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "ecdaf8c09ec99374",
@@ -11739,8 +11739,8 @@ var CARD_COLLECTIONS = {
             "rarity": "ZR",
             "rarityName": "甜蜜点心时光卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜珍藏版｜第2弹/ZR-甜蜜点心时光卡-09.png",
+            "fileExt": ".png"
           }
         ]
       },
@@ -13449,8 +13449,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "cc0df30b5b7ea40b",
@@ -13458,8 +13458,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "a6ee2e9b0297624d",
@@ -13467,8 +13467,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "d6295e4b9f81fac2",
@@ -13476,8 +13476,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "b2f2d15f9dc3b958",
@@ -13485,8 +13485,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "fe39625081e863d1",
@@ -13494,8 +13494,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "7e16e7637230eb6f",
@@ -13503,8 +13503,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "e09647b5a7368a80",
@@ -13512,8 +13512,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "8acc64e30c608479",
@@ -13521,8 +13521,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "85a869ec57d038a6",
@@ -13530,8 +13530,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "55373368c49f114a",
@@ -13539,8 +13539,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "339c22c0e0af6ab0",
@@ -13548,8 +13548,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "b1a64efb02eecb8c",
@@ -13557,8 +13557,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "8ffa7d9a773f3a83",
@@ -13566,8 +13566,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "4571fbb5752a547e",
@@ -13575,8 +13575,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "d4cfc456e47b8321",
@@ -13584,8 +13584,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "2f90f64c00d0f482",
@@ -13593,8 +13593,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "a7b5e440cc87f1e5",
@@ -13602,8 +13602,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "2f3ff327ebd0e69c",
@@ -13611,8 +13611,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "a2147b6567d95043",
@@ -13620,8 +13620,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "4359d3488437a02c",
@@ -13629,8 +13629,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "1f2097e33b564e49",
@@ -13638,8 +13638,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "bc9eda95838f121d",
@@ -13647,8 +13647,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "bf9c3b7174aa23a9",
@@ -13656,8 +13656,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "12f92c705d70bcdf",
@@ -13665,8 +13665,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "14b8aa063ad18c68",
@@ -13674,8 +13674,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "2f55863cfb8c9e55",
@@ -13683,8 +13683,8 @@ var CARD_COLLECTIONS = {
             "rarity": "SR",
             "rarityName": "经典角色卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/SR-经典角色卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "899a1e62db41a79d",
@@ -13854,8 +13854,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "e9a77b955b5302e2",
@@ -13863,8 +13863,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "3f409ba935706f0e",
@@ -13872,8 +13872,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "488017a258402ba4",
@@ -13881,8 +13881,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "244a896299786653",
@@ -13890,8 +13890,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "81d6020476a84fa5",
@@ -13899,8 +13899,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "f74024c49c82af91",
@@ -13908,8 +13908,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "35687b3a1a2c37e7",
@@ -13917,8 +13917,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "4aa79089c0e82ab3",
@@ -13926,8 +13926,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "81126cda82e5a154",
@@ -13935,8 +13935,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "10",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-10.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-10.png",
+            "fileExt": ".png"
           },
           {
             "id": "3f66e47eedd38959",
@@ -13944,8 +13944,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "11",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-11.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-11.png",
+            "fileExt": ".png"
           },
           {
             "id": "5cef3ce0f6d19919",
@@ -13953,8 +13953,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "12",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-12.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-12.png",
+            "fileExt": ".png"
           },
           {
             "id": "48bc0d5a70f7c646",
@@ -13962,8 +13962,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "13",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-13.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-13.png",
+            "fileExt": ".png"
           },
           {
             "id": "8c2a7c20b9ca53d1",
@@ -13971,8 +13971,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "14",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-14.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-14.png",
+            "fileExt": ".png"
           },
           {
             "id": "5d01e6f8a53d9829",
@@ -13980,8 +13980,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "15",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-15.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-15.png",
+            "fileExt": ".png"
           },
           {
             "id": "075a60c9e642170f",
@@ -13989,8 +13989,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "16",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-16.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-16.png",
+            "fileExt": ".png"
           },
           {
             "id": "cf22b65f548bd68d",
@@ -13998,8 +13998,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "17",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-17.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-17.png",
+            "fileExt": ".png"
           },
           {
             "id": "5991e597b3d8a154",
@@ -14007,8 +14007,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "18",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-18.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-18.png",
+            "fileExt": ".png"
           },
           {
             "id": "8de295ad0a975b25",
@@ -14016,8 +14016,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "19",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-19.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-19.png",
+            "fileExt": ".png"
           },
           {
             "id": "b412a17c6229b289",
@@ -14025,8 +14025,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "20",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-20.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-20.png",
+            "fileExt": ".png"
           },
           {
             "id": "918aa6545feabf9c",
@@ -14034,8 +14034,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "21",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-21.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-21.png",
+            "fileExt": ".png"
           },
           {
             "id": "3dc729fddbee4f05",
@@ -14043,8 +14043,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "22",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-22.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-22.png",
+            "fileExt": ".png"
           },
           {
             "id": "8615d8544ac33606",
@@ -14052,8 +14052,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "23",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-23.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-23.png",
+            "fileExt": ".png"
           },
           {
             "id": "54193ca7956db8f6",
@@ -14061,8 +14061,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "24",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-24.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-24.png",
+            "fileExt": ".png"
           },
           {
             "id": "fb8b0913efd860cb",
@@ -14070,8 +14070,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "25",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-25.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-25.png",
+            "fileExt": ".png"
           },
           {
             "id": "9b3090e4a9f6eedc",
@@ -14079,8 +14079,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "26",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-26.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-26.png",
+            "fileExt": ".png"
           },
           {
             "id": "30ac0391d9f241a8",
@@ -14088,8 +14088,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DR",
             "rarityName": "百宝袋道具卡",
             "number": "27",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-27.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DR-百宝袋道具卡-27.png",
+            "fileExt": ".png"
           },
           {
             "id": "bfed27e4201ecf6d",
@@ -14691,8 +14691,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(金版)",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "467504b157d7a12f",
@@ -14700,8 +14700,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(金版)",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "9fc48144afd7a972",
@@ -14709,8 +14709,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(金版)",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "10f2c507238b09c5",
@@ -14718,8 +14718,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(金版)",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(金版)-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "e07710f952f9d399",
@@ -14727,8 +14727,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(银版)",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "2fec47b9cf8c3c86",
@@ -14736,8 +14736,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(银版)",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "5fae9f6a8fb9a90b",
@@ -14745,8 +14745,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(银版)",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "a7f267ee83ddb961",
@@ -14754,8 +14754,8 @@ var CARD_COLLECTIONS = {
             "rarity": "MZ",
             "rarityName": "复古杂志风格卡(银版)",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/MZ-复古杂志风格卡(银版)-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "1e8c480c47afb3c7",
@@ -14925,8 +14925,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "01",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-01.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-01.png",
+            "fileExt": ".png"
           },
           {
             "id": "6a3b04e9a8d7f3fd",
@@ -14934,8 +14934,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "02",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-02.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-02.png",
+            "fileExt": ".png"
           },
           {
             "id": "19ea2800995f1dfd",
@@ -14943,8 +14943,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "03",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-03.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-03.png",
+            "fileExt": ".png"
           },
           {
             "id": "26619ec85da04736",
@@ -14952,8 +14952,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "04",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-04.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-04.png",
+            "fileExt": ".png"
           },
           {
             "id": "e0237181882f9ac3",
@@ -14961,8 +14961,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "05",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-05.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-05.png",
+            "fileExt": ".png"
           },
           {
             "id": "6b719a3fd2eee17c",
@@ -14970,8 +14970,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "06",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-06.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-06.png",
+            "fileExt": ".png"
           },
           {
             "id": "1ea14cc74e9ad466",
@@ -14979,8 +14979,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "07",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-07.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-07.png",
+            "fileExt": ".png"
           },
           {
             "id": "973dad6fa2a3a1ce",
@@ -14988,8 +14988,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "08",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-08.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-08.png",
+            "fileExt": ".png"
           },
           {
             "id": "321c97837d586078",
@@ -14997,8 +14997,8 @@ var CARD_COLLECTIONS = {
             "rarity": "DM",
             "rarityName": "秘密道具磁贴卡",
             "number": "09",
-            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-09.jpg",
-            "fileExt": ".jpg"
+            "path": "D:/BaiduSyncdisk/其他/卡动文创图鉴/哆啦A梦/卡牌｜奇妙珍藏卡｜第3弹/DM-秘密道具磁贴卡-09.png",
+            "fileExt": ".png"
           },
           {
             "id": "9b4722829e6dda41",
@@ -15519,7 +15519,7 @@ var CARD_COLLECTIONS = {
   },
   "三国志8 REMAKE": {
     "meta": {
-      "generatedAt": "2026-07-24T23:27:58",
+      "generatedAt": "2026-07-26T00:54:51",
       "sourceDir": "D:/BaiduSyncdisk/其他/卡动文创图鉴/三国志8 REMAKE",
       "totalPacks": 1,
       "totalCards": 451,
@@ -19598,7 +19598,7 @@ var CARD_COLLECTIONS = {
   },
   "CF穿越火线": {
     "meta": {
-      "generatedAt": "2026-07-24T23:27:58",
+      "generatedAt": "2026-07-26T00:54:51",
       "sourceDir": "D:/BaiduSyncdisk/其他/卡动文创图鉴/CF穿越火线",
       "totalPacks": 1,
       "totalCards": 148,
@@ -20950,7 +20950,7 @@ var CARD_COLLECTIONS = {
   },
   "龙族": {
     "meta": {
-      "generatedAt": "2026-07-24T23:27:58",
+      "generatedAt": "2026-07-26T00:54:51",
       "sourceDir": "D:/BaiduSyncdisk/其他/集卡社图鉴/龙族",
       "totalPacks": 3,
       "totalCards": 434,
@@ -24894,7 +24894,7 @@ var CARD_COLLECTIONS = {
   },
   "卡皮巴拉": {
     "meta": {
-      "generatedAt": "2026-07-24T23:27:58",
+      "generatedAt": "2026-07-26T00:54:51",
       "sourceDir": "D:/BaiduSyncdisk/其他/集卡社图鉴/卡皮巴拉",
       "totalPacks": 4,
       "totalCards": 434,

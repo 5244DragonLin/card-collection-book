@@ -89,6 +89,14 @@
         // 清空圆环内容
         var track = document.getElementById('coverflowTrack');
         if (track) track.innerHTML = '';
+        // 恢复 carousel 显示（拼图预览可能隐藏了它）
+        var coverflow = document.getElementById('coverflowContainer');
+        var counter = document.getElementById('coverflowCounter');
+        if (coverflow) coverflow.style.display = '';
+        if (counter) counter.style.display = '';
+        // 清除拼图边缘箭头
+        var arrows = document.querySelectorAll('.puzzle-edge-arrow');
+        arrows.forEach(function (a) { a.remove(); });
       }, AppConfig.ANIMATION.MODAL_CLOSE_DELAY);
     },
 
@@ -96,13 +104,40 @@
      * 打开全屏图片查看弹窗
      * @param {string} imgSrc - 图片路径
      */
-    openLightbox: function (imgSrc) {
+    openLightbox: function (imgSrc, cardIndex) {
       var overlay = document.getElementById('lightboxOverlay');
       var img = document.getElementById('lightboxImg');
       if (!overlay || !img) return;
       img.src = imgSrc;
       overlay.classList.add('active');
       document.body.style.overflow = 'hidden';
+
+      // 记录当前索引，用于键盘切换
+      this._lightboxIndex = (cardIndex !== undefined && cardIndex >= 0) ? cardIndex : this.virtualIndex;
+
+      // 绑定键盘事件
+      var self = this;
+      this._lightboxKeyHandler = function (e) {
+        if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+          e.preventDefault();
+          var dir = e.key === 'ArrowLeft' ? -1 : 1;
+          var newIdx = Math.round(self.virtualIndex) + dir;
+          if (newIdx >= 0 && newIdx < self.cards.length) {
+            self.virtualIndex = newIdx;
+            self.updateCenterContent(true);
+            self.render();
+            // 更新 lightbox 图片
+            var card = self.cards[newIdx];
+            var imgSrc2 = getCardImageUrl(card.path);
+            var img2 = document.getElementById('lightboxImg');
+            if (img2) img2.src = imgSrc2;
+            self._lightboxIndex = newIdx;
+          }
+        } else if (e.key === 'Escape') {
+          self.closeLightbox();
+        }
+      };
+      document.addEventListener('keydown', this._lightboxKeyHandler);
     },
 
     /**
@@ -113,6 +148,16 @@
       if (!overlay) return;
       overlay.classList.remove('active');
       document.body.style.overflow = '';
+      // 重置拼图合成预览
+      var puzzleContainer = document.getElementById('lightboxPuzzle');
+      var img = document.getElementById('lightboxImg');
+      if (puzzleContainer) puzzleContainer.style.display = 'none';
+      if (img) img.style.display = '';
+      // 清理键盘事件
+      if (this._lightboxKeyHandler) {
+        document.removeEventListener('keydown', this._lightboxKeyHandler);
+        this._lightboxKeyHandler = null;
+      }
     },
 
     /**
@@ -229,7 +274,7 @@
         var animStyle = (this.isDragging || skipAnimation) ? ' style="animation:none"' : '';
         mainImg.innerHTML = '<img src="' + imgSrc + '" alt="' + this._escapeHtml(card.name) + '" ' +
           'title="点击查看原图" ' + animStyle + ' ' +
-          'onclick="CoverflowCarousel.openLightbox(\'' + imgSrc.replace(/'/g, "\\'") + '\')" ' +
+          'onclick="CoverflowCarousel.openLightbox(\'' + imgSrc.replace(/'/g, "\\'") + '\', ' + centerIdx + ')" ' +
           'onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\'">' +
           '<div class="modal-img-placeholder">' +
           '<span class="placeholder-icon">🃏</span>' +

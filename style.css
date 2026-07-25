@@ -607,6 +607,90 @@ body::-webkit-scrollbar-thumb:hover,
   border-color: var(--accent-red);
   color: var(--accent-red);
 }
+
+/* ========== 拼图预览按钮 ========== */
+.puzzle-toggle-btn {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid #9b59b6;
+  background: #fff;
+  color: #9b59b6;
+  transition: all 0.2s;
+  white-space: nowrap;
+  user-select: none;
+}
+.puzzle-toggle-btn:hover {
+  background: #9b59b6;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(155, 89, 182, 0.3);
+}
+
+/* ========== 拼图组切换箭头（弹窗边缘） ========== */
+#modalContent {
+  position: relative;
+}
+.puzzle-edge-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(155, 89, 182, 0.2);
+  color: #9b59b6;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+.puzzle-edge-arrow:hover {
+  background: #9b59b6;
+  color: #fff;
+  box-shadow: 0 2px 10px rgba(155, 89, 182, 0.4);
+}
+.puzzle-edge-arrow.left {
+  left: 8px;
+}
+.puzzle-edge-arrow.right {
+  right: 8px;
+}
+
+/* ========== 拼图合成弹窗（modal 内） ========== */
+#modalMainImg .puzzle-assembly {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 0;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+}
+#modalMainImg .puzzle-assembly-cell {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+}
+#modalMainImg .puzzle-assembly-cell img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 .rarity-batch-btn.owned:hover {
   background: linear-gradient(135deg, var(--accent-red), #c0392b);
   color: #fff;
@@ -872,7 +956,7 @@ body::-webkit-scrollbar-thumb:hover,
   max-width: 900px;
   width: 100%;
   max-height: 95vh;
-  overflow: hidden;
+  overflow: visible;
   display: flex;
   flex-direction: column;
   box-shadow: 0 20px 60px rgba(243, 156, 18, 0.3);
